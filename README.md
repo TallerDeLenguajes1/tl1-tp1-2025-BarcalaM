@@ -9,10 +9,10 @@ garantizara que no se suban archivos no deseados.
 3. Se deben agregar los tipos de archivos que se desean ignorar, asi Git no
 los subira al repositorio.
 
-#Punto 3
-*El punto 2 y 3 imprimen lo mismo debido a que el puntero fue inicializado 
+### Punto 3
+* El punto 2 y 3 imprimen lo mismo debido a que el puntero fue inicializado 
 para apuntar a numero, por lo tanto el contenido de puntero sera la direccion
 de memoria de numero.
-*El 4 es distinto ya que en ese se obtiene la direccion de memoria del 
+* El 4 es distinto ya que en ese se obtiene la direccion de memoria del 
 puntero, es decir donde esta guardado el mismo y es por eso es que son 
 distintas posiciones que se imprimen porque cada una tiene una posicion.
